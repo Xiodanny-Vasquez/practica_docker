@@ -1,1 +1,1 @@
-prueba docker
+prueba dockerdocker exec xio_nginx cat /usr/share/nginx/html/prueba.txt
